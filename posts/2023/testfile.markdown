@@ -4,7 +4,7 @@ title:  "This is a test post"
 date:   2023-03-14 18:50:00 +0530
 author: Abhishek Bhujang
 tags:   [bypass, security]
-image: /imgs/thumbs/modsecurity-event.png
+image: /imgs/Screenshot 2023-03-13 225843.png
 permalink: /blog/testpost
 description: ""  
 ---
