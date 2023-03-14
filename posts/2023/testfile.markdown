@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "This is a test post"
-date:   2023-03-14 18:50:00 +0530
-author: Abhishek Bhujang
-tags:   [bypass, security]
+title:  "Overcoming Self-Hate & Regrets"
+date:   2021-12-02 21:23:00 +0530
+author: Somdev Sangwan
+tags:   [meta, philosophy]
 image: /imgs/Screenshot 2023-03-13 225843.png
-permalink: "/posts/testpost"
-description: ""  
+permalink: /blog/testfile
+description: "Learn how to deal with self-hate and regrets."  
 ---
