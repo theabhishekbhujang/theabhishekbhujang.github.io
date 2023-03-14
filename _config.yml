@@ -13,7 +13,7 @@ description: Abhishek Bhujang - Security Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theabhishekbhujang.github.io" # the base hostname & protocol for your site
 usernames:
-  twitter: theabhishekbhujang
+  twitter: theabhibhujang
   github:  theabhishekbhujang
   linkedin: theabhishekbhujang
   instagram: theabhishekbhujang
